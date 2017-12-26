@@ -2,6 +2,9 @@ from pyknow import *
 
 
 class Maximum(KnowledgeEngine):
+    """
+    Implements pyknow example of calculating maximum of list.
+    """
     @Rule(~Fact(max=W()))
     def init(self):
         self.declare(Fact(max=0))
