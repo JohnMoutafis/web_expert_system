@@ -1,2 +1,2 @@
-# web_expert_system
+# Web Expert System
 A proof of concept project
