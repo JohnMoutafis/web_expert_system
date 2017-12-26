@@ -1,6 +1,6 @@
 # Web Expert System
 
-##This is a proof of concept project.
+## This is a proof of concept project.
 
 Using PyKnown (https://github.com/buguroo/pyknow) module, 
 create a Web Expert System to implement rules and return responses
